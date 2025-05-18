@@ -1,3 +1,8 @@
+<div align="center">
+  <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTljNTN5cWY0YmFvZ2xic3g2a205N2kxNzY4NnU5cWZrZzVhc2YxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCevnBRJE6Z6n2VqlG/giphy.gif" width = 15%>
+</div>
+
+
 <h1 align="center">Hey There 👋, I'm Dayan Wishwanath</h1>
 <h3 align="center">Aspiring Software Engineer | Cloud Tech Enthusiast | SLIIT Undergraduate</h3>
 
@@ -9,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm currently pursuing a **BSc (Hons) in Information Technology** at **SLIIT**, Specializing in Information Technology.  
+- 🎓 I'm currently pursuing a **BSc (Hons) in Information Technology** at **SLIIT**. 
 - 💡 I'm passionate about solving real-world problems through technology.  
 - 🚀 My goal is to build impactful, scalable, and user-friendly software solutions.
 
