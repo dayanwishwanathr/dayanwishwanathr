@@ -9,9 +9,9 @@
 
 ### 👨‍💻 About Me
 
-🎓 I'm currently pursuing a **BSc (Hons) in Information Technology** at **SLIIT**, Specializing in Information Technology.  
-💡 I'm passionate about solving real-world problems through technology.  
-🚀 My goal is to build impactful, scalable, and user-friendly software solutions.
+- 🎓 I'm currently pursuing a **BSc (Hons) in Information Technology** at **SLIIT**, Specializing in Information Technology.  
+- 💡 I'm passionate about solving real-world problems through technology.  
+- 🚀 My goal is to build impactful, scalable, and user-friendly software solutions.
 
 ---
 
