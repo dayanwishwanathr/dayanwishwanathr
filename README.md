@@ -28,12 +28,12 @@
 ### 🛠️ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dayanwishwanathr&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dayanwishwanathr&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dayanwishwanathr&show_icons=true&locale=en" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dayanwishwanathr" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dayanwishwanathr&show_icons=true&locale=en&theme=github_dark" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dayanwishwanathr&theme=github-dark-blue" height="165" />
 </p>
 
 ---
