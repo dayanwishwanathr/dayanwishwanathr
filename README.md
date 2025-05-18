@@ -1,5 +1,5 @@
 <h1 align="center">Hey There 👋, I'm Dayan Wishwanath</h1>
-<h3 align="center">Aspiring Software Developer | BSc (Hons) in IT Undergraduate at SLIIT</h3>
+<h3 align="center">Aspiring Software Engineer | Cloud Tech Enthusiast | SLIIT Undergraduate</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dayanwishwanath&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views counter" />
