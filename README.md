@@ -1,6 +1,7 @@
+<!-- 
 <div align="center">
   <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHcweWRwY3UwcXZ3cXFld2dlZGR4ZWQyemlobTkxYW42aWw1d293aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4EOEUlZPrrfmGQ9n6w/giphy.gif" width = 14%>
-</div>
+</div> -->
 
 <h1 align="center">Hey There 👋, I'm Dayan Wishwanath</h1>
 <h3 align="center">Aspiring Software Engineer | Cloud Tech Enthusiast | SLIIT Undergraduate</h3>
